@@ -1,8 +1,81 @@
-# miniproject3AustinHoward
-The third mini project for INF601 - Advanced Programming with Python
+### INF601 - Advanced Programming in Python
+### Austin Howard
+### Mini Project 3
 
-Setup Database  
-flask --app flaskr init-db
 
-Run Application
-flask --app flaskr run
+# Project Title (EDIT)
+
+Simple overview of use/purpose.
+
+## Description (EDIT)
+
+An in-depth paragraph about your project and overview of use.
+
+## Getting Started (EDIT)
+
+### Dependencies (EDIT)
+
+* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+* ex. Windows 10
+* List pip install instructions.
+
+### Installing (EDIT)
+
+* How/where to download your program
+* Any modifications needed to be made to files/folders
+
+* Setup Database  
+```
+flask --app liftr init-db
+```
+
+### Executing program (EDIT)
+
+* How to run the program
+* Step-by-step bullets
+```
+code blocks for commands
+```
+
+* Run Application
+```
+flask --app liftr run
+```
+
+## Help (EDIT)
+
+Any advise for common problems or issues.
+```
+command to run if program contains helper info
+```
+
+## Authors (EDIT)
+
+Contributors names and contact info
+
+ex. Dominique Pizzie  
+ex. [@DomPizzie](https://twitter.com/dompizzie)
+
+## Version History (EDIT)
+
+* 0.2
+    * Various bug fixes and optimizations
+    * See [commit change]() or See [release history]()
+* 0.1
+    * Initial Release
+
+## License
+
+This project is licensed under the GNU General Public 
+License (Version 3).  
+
+See the LICENSE.md file for details
+
+## Acknowledgments (EDIT)
+
+Inspiration, code snippets, etc.
+* [awesome-readme](https://github.com/matiassingers/awesome-readme)
+* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+* [dbader](https://github.com/dbader/readme-template)
+* [zenorocha](https://gist.github.com/zenorocha/4526327)
+* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
