@@ -42,6 +42,8 @@ flask --app liftr init-db
 ```
 
 ### Step 3: Executing the program
+You can now initiate the developmental server for Liftr.
+
 In a terminal window, please type the following:
 ```
 flask --app liftr run
