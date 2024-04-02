@@ -5,7 +5,7 @@
 
 # Mini Project 3 (Liftr)
 
-## Description (EDIT)
+## Description
 
 This is an introductory project to learn how to leverage flask to design a basic web application.  
 
@@ -63,7 +63,7 @@ License (Version 3).
 
 See the LICENSE.md file for details
 
-## Acknowledgments (EDIT)
+## Acknowledgments
 
 Inspiration, code snippets, etc.
 * [Jason Zeller's Youtube Playlist](https://youtube.com/playlist?list=PLE5nOs3YmC2THmgcLi-ogD8KiIfCjS06V&si=Jxm455HAtPZkZZ3Q)
