@@ -3,66 +3,58 @@
 ### Mini Project 3
 
 
-# Project Title (EDIT)
-
-Simple overview of use/purpose.
+# Mini Project 3 (Liftr)
 
 ## Description (EDIT)
 
-An in-depth paragraph about your project and overview of use.
+This is an introductory project to learn how to leverage flask to design a basic web application.  
 
-## Getting Started (EDIT)
+I want to create a webapp wherein users can post about their workouts in a blog-type format. They should be able 
+to include which exercises they performed, reps, weight, etc.
 
-### Dependencies (EDIT)
+Additionally, these new concepts are introduced to the course from this project:
+* SQLite Database configuration and integration
+* HTML templating and extension
+* Stylesheets
+* Leveraging Bootstrap for GUI design
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-* List pip install instructions.
+This project serves as a proof of concept for the structure of a web app and isn't designed to showcase a viable 
+product.
 
-### Installing (EDIT)
+## Getting Started
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+### Step 1: Pip Install Requirements
 
-* Setup Database  
+In order to use this application you must first install its dependencies.  
+
+In a terminal window, please type the following:
+```
+pip install -r requirements.txt
+```
+
+### Step 2: Initialize the Database
+
+Before using the website you must initialize the database so that get/post remains functional.  
+
+In a terminal window, please type the following:
 ```
 flask --app liftr init-db
 ```
 
-### Executing program (EDIT)
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-* Run Application
+### Step 3: Executing the program
+In a terminal window, please type the following:
 ```
 flask --app liftr run
 ```
 
-## Help (EDIT)
+## Authors 
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+Austin Howard - [Email](a_howard4@mail.fhsu.edu)
 
-## Authors (EDIT)
+## Version History
 
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History (EDIT)
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
+* 1.0
+    * Initial Release to complete the assignment
 
 ## License
 
@@ -74,8 +66,6 @@ See the LICENSE.md file for details
 ## Acknowledgments (EDIT)
 
 Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+* [Jason Zeller's Youtube Playlist](https://youtube.com/playlist?list=PLE5nOs3YmC2THmgcLi-ogD8KiIfCjS06V&si=Jxm455HAtPZkZZ3Q)
+* [Flask](https://flask.palletsprojects.com/en/3.0.x/)
+* [Bootstrap 5.3](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
